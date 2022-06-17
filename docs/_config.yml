@@ -30,7 +30,7 @@ twitter_username: lachlanwgordon
 github_username:  lachlanwgordon
 
 # Build settings
-theme: jasper
+theme: minima
 plugins:
   - jekyll-feed
 
