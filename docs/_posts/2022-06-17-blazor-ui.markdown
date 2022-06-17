@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Welcome to My blog!"
+date:   2022-06-17 23:07:29 +1000
+categories: jekyll update
+---
+
+# heading
+## smaller heading
+
+
+this will be a post about blazor
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
