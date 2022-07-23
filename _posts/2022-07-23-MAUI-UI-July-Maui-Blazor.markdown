@@ -12,14 +12,26 @@ For my post, I've teamed up with my buddy Kym Phillpotts. We're both taking on t
 
 The design we're implementing is a music teacher's app that we found on dribbble, created by Sumit Choudhary. You can check it out at [https://dribbble.com/shots/17453615-Classfly-Music-app-concept]
 
-![Design](/assets/images/test.png)
+![Design](/assets/images/design.webp)
 
 
 ## Blazor Maui
 
 Blazor MAUI is a new way of creating mobile apps with .NET.
 
-It's built on top of the MAUI library, but instead of using XAML and MVVM or Coded UI to build your user interface your use Blazor whic
+It's built on top of the MAUI, so you get all the benefits of the ecosystem
+
+
+## Navigation
+
+The first step was to change the navigation. The Blazor template started out with a navigation menu on the left of the screen if you were on large devices that squashed down to be top navigation on mobile. Our design called for bottom tabs.
+
+![Blank Maui Blazor app running on Windows 11](/assets/images/blazor-nav.png)
+
+And here it is running on an Android Emulator
+![Blank Maui Blazor app running on and Android Emulator](/assets/images/android.png)
+
+I kept the existing NavigationBar.razor component, but 
 
 
 this will be a post about blazor
