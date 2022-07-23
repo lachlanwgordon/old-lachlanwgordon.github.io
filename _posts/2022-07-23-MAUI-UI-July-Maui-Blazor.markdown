@@ -12,7 +12,7 @@ For my post, I've teamed up with my buddy Kym Phillpotts. We're both taking on t
 
 The design we're implementing is a music teacher's app that we found on dribbble, created by Sumit Choudhary. You can check it out at [https://dribbble.com/shots/17453615-Classfly-Music-app-concept]
 
-![Design](/images/test.png)
+![Design](/assets/images/test.png)
 
 
 ## Blazor Maui
