@@ -19,7 +19,7 @@ The design we're implementing is a music teacher's app that we found on dribbble
 
 Blazor MAUI is a new way of creating mobile apps with .NET.
 
-It all runs 
+It's built on top of the MAUI library, but instead of using XAML and MVVM or Coded UI to build your user interface your use Blazor whic
 
 
 this will be a post about blazor
